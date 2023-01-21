@@ -1,0 +1,2 @@
+discord.py==2.1.0
+pyautogui==0.9.53
